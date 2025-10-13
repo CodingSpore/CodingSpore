@@ -1,5 +1,3 @@
-<img align="right" width="400" alt="metrics" src="left.github.svg">
-
 <h1>✨ hey there .ᐟ.ᐟ</h1>
 <samp>
   hi! i'm ClearedSpore 👋
