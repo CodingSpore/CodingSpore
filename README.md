@@ -5,8 +5,6 @@
   i like coding and vibing to music 🎧
   <br><br>
   currently learning Kotlin & Java ☕
-  <br>
-  developer at <a href="https://discord.gg/leonemc">LeoneMC</a> 🛠️
   <br><br>
   not working on anything specific right now 💤
   <br><br>
