@@ -1,6 +1,6 @@
 <h1>✨ hey there .ᐟ.ᐟ</h1>
 <samp>
-  hi! i'm ClearedSpore 👋
+  hi! i'm CodingSpore 👋
   <br>
   i like coding and vibing to music 🎧
   <br><br>
