@@ -10,5 +10,6 @@
   <br><br>
   contact: discord <a href="https://discord.gg/leonemc">@ClearedSpore</a>
 </samp>
+<white></white>
 
-[<img alt="@ClearedSpore on Discord" src="https://discord.c99.nl/widget/theme-3/814467642974142514.png">](https://discord.c99.nl/widget/theme-2/814467642974142514.png)
+[![Discord status](https://statusbanner.com/banner/minimal-dark/814467642974142514.svg?compact=1)](https://statusbanner.com/u/814467642974142514)
