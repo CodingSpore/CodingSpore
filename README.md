@@ -8,7 +8,7 @@
   <br><br>
   not working on anything specific right now 💤
   <br><br>
-  contact: discord <a href="https://discord.gg/leonemc">@ClearedSpore</a>
+  contact: discord <a href="https://discord.gg/leonemc">@Codingspore</a>
 </samp>
 <white></white>
 
